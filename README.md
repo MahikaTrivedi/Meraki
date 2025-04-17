@@ -2,8 +2,6 @@
 
 *A soulful productivity dashboard designed to bring clarity, focus, and rhythm to your study sessions.*
 
-![MerakiBoard Banner](./banner.png)
-
 ## ✨ Overview
 
 MerakiBoard is a minimal, aesthetic, and customizable productivity dashboard inspired by **StudyVerse**. Built for individuals seeking immersive, goal-driven focus environments, it combines Pomodoro timers, task management, productivity charts, and a calming UI — all in one place.
